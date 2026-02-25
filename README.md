@@ -5,12 +5,14 @@ Today we will be getting familiar with the use of iterative design in our game m
 Today's task uses (but is not limited to):
 
 * Github Desktop (or your Github client of choice)
-* Unity
+* Unreal Engine
 
 ## Assignment deliverable
 There is no direct assignment deliverable today. However, your iteration on your scene from last week will help you get a better grip on how to think about designing your level for particular experiences, and expose you to the process of playtesting. These skills will be necessary for the Level Design Task.
 
-## Retrieving your project from last week (5 min)
+## Opening the new project
+Today we'll be started with a (slightly bug-fixed) version of the template project, found inside this repo. Open it up as you did last time. You'll notice there is no level this time! So let's make one.
+
 Instead of creating a new scene today, you'll be iterating on what you built last week. If you have not created any sort of level from last week, spend some time doing so now. You may even want to revisit last week's sheet for some ideas.
 
 If you haven't got it, clone/pull the latest version of your lab repo from last week. Take a minute or so to refresh your memory of the project. Consider some of the big-picture design qualities of your level:
