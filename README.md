@@ -9,7 +9,7 @@ Today's task uses (but is not limited to):
 
 
 ## Task 0: Opening the new project
-Today we'll be started with a (slightly bug-fixed) version of the template project, found inside this repo. Open it up as you did last time. You'll notice there is no level this time! So let's make one. As per last week, head to `File > New Level` and select `Basic`. This will give you the player, lighting and the floor to get started with.
+Today we'll be started with a (slightly bug-fixed) version of the template project, found inside this repo. Open it up as you did last time. You'll notice there is no level this time! So let's make one. As per last week, head to `File > New Level` and select `Basic`. This will give you the player, lighting and the floor to get started with. You can start with a blank level if you are feeling particularly confident, it's up to you!
 
 ## Task 1: Challenges (10 min)
 Directed by your instructor, discuss the different kinds of challenges that this game can provide, based on your analysis from last week. One way to frame this is to think about a few different "Betcha can't..." statements. Some examples related to other games:
