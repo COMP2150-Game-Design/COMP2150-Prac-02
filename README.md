@@ -48,7 +48,7 @@ Once you've both played each other's games, discuss. Describe your experience an
 ## Task 4: Second Iteration (15 min)
 With this feedback in mind, start iterating on your prototype while also considering higher-level experience goals. Consider:
 
-* Is that "betcha can't" challenge really clear and engaged? Or is the player spending their time doing something else?
+* Is that "betcha can't" challenge clear and engaged? Or is the player spending their time doing something else?
 * What kind of challenge is this? Is it about slow and deliberate path-choosing? Or something more fast paced? How can additional elements add to this, or aggrivating elements be removed?
 * Are you aiming for something difficult, or something a bit more chill? Which elements are you using to achieve this?
 
